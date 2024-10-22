@@ -1,15 +1,25 @@
-body {background-color: black;
+body {background-color: rgb(140,139, 141);
 
 }
 h1 {font-style: italic;
     color: aliceblue;
+    font-size: 30px;
 }
 p {color: aliceblue;
-font-size: large;
+font-size: px5;
 }
-header {padding: auto;
-border-bottom: solid;
-display: flex;
-justify-content: center;
-.dois {margin: auto;
+h2 {color: aliceblue
+   }
+header {
+    display: flex;
+    justify-content:center;
+    border-bottom: solid 3px rgb (0, 0, 0);
+    padding-bottom: 3px;
+    font-size: 15px
 }
+h1{color:aliceblue;
+    
+li{ color:aliceblue}
+font-size: 10px;
+.dois { width: 200px;
+.um {width: 400}
