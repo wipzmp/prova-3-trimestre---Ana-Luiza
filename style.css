@@ -1,0 +1,15 @@
+body {background-color: black;
+
+}
+h1 {font-style: italic;
+    color: aliceblue;
+}
+p {color: aliceblue;
+font-size: large;
+}
+header {padding: auto;
+border-bottom: solid;
+display: flex;
+justify-content: center;
+.dois {margin: auto;
+}
